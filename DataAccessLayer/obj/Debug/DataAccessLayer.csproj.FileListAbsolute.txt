@@ -13,3 +13,5 @@ C:\Users\Berat\source\repos\YazarBlogu\DataAccessLayer\obj\Debug\DataAccessLayer
 C:\Users\Berat\source\repos\YazarBlogu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\Berat\source\repos\YazarBlogu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Berat\source\repos\YazarBlogu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Berat\source\repos\YazarBlogu\DataAccessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Berat\source\repos\YazarBlogu\DataAccessLayer\bin\Debug\FluentValidation.xml
